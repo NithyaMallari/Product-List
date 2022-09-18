@@ -1,5 +1,5 @@
 # Product list which has following features.
-## 1. Add Product should have these fields
+## 1. Add Product have these fields
 ###    a. Product Name, Product Image, Description, Price, Category [Category Should be Dropdown List], Ratings
 ## 2. Products List should be rendered in cards format and must have
 ###    a. Add to Cart [(single product can be added more than once with count value)] and remove from cart
