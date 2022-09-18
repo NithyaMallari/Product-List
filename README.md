@@ -13,4 +13,4 @@
 ### 1. Depencies: npm intall react-scripts
 ### 2. run 'npm start within src/component directory'
 
-
+#####Inial Commit.
